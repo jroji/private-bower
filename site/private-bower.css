@@ -48,9 +48,7 @@ footer h4 a {
 }
 
 #logo {
-    position: absolute;
-    height: 200px;
-    width: 200px;
+    height: 80px;
 }
 
 .btn-warning {
@@ -77,7 +75,7 @@ footer h4 a {
 }
 
 .jumbotron {
-    background-color: #F4C53B;
+    background-color: #002C73;
     padding-top: 30px;
     padding-bottom: 15px;
 }
@@ -186,7 +184,7 @@ footer h4 a {
 
     border: 3px solid #777;
     border-radius: 5px;
-    background-color: #F4C53B;
+    background-color: #002C73;
 
     padding: 20px;
 }
